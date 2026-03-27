@@ -4,6 +4,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,hono,aws,cloudflare,terraform&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,nodejs,aws,cloudflare,terraform,figma&theme=dark" />
   </a>
 </p>
