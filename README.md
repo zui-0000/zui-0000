@@ -12,6 +12,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,python,kotlin,dart,mysql, postgresql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=php,python,kotlin,dart,mysql,postgresql&theme=dark" />
   </a>
 </p>
