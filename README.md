@@ -24,7 +24,7 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,tanstack,zustand,jotai,effect,zod,swagger,openapi" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,tanstack,zustand,jotai,effect,zod,drizzle,swagger,openapi" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=vitest,playwright,storybook,biome,oxc,swagger,openapi" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=vitest,playwright,storybook,biome,oxc,commitlint" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=githubactions,terraform,docker,amazonwebservices,cloudflare,postgresql,neon,bigquery,datadog" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=githubactions,terraform,docker,amazonwebservices,cloudflare,postgresql,neon" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=github,githubcopilot,claudeai,cursor,confluence,jira,figma,insomnia,obsidian" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=github,githubcopilot,claudeai,cursor,confluence,jira,figma,insomnia,obsidian,bigquery,datadog,drawio" />
   </a>
 </p>
 
