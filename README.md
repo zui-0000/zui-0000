@@ -6,11 +6,7 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,astro" />
-    <img src="https://skills.syvixor.com/api/icons?i=hono" />
-    <img src="https://skillicons.dev/icons?i=nodejs,bun,pnpm,aws,cloudflare,terraform,docker,githubactions,figma&theme=dark" />
-    <br />
-    <img src="https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=typescript,reactjs,hono,astro,nodejs,bun,pnpm,vite,vitest,amazonwebservices,cloudflare,docker,terraform,githubactions,figma,cursor,claudeai" />
   </a>
 </p>
 
@@ -18,6 +14,6 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,php,python,kotlin,dart,mysql,postgresql,laravel,django,spring,jenkins&theme=dark" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=nuxtjs,vuejs,nestjs,django,laravel,flutter,kotlin,springboot,mysql,postgresql,jenkins" />
   </a>
 </p>
