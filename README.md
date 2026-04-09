@@ -16,7 +16,7 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=tailwindcss,baseui,daisyui,styledcomponents" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=styledcomponents,tailwindcss,baseui,daisyui" />
   </a>
 </p>
 
@@ -24,7 +24,15 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=tanstack,zustand,jotai,effect,zod,pnpm,turborepo,vite,vitest,biome,oxc,swagger,openapi" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,tanstack,zustand,jotai,effect,zod,swagger,openapi" />
+  </a>
+</p>
+
+**test / lint / formatter**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=vitest,playwright,storybook,biome,oxc,swagger,openapi" />
   </a>
 </p>
 
@@ -36,11 +44,11 @@ I'm a web application engineer with a primary focus on frontend development.
   </a>
 </p>
 
-**Dev Tools / AI**
+**Dev Tools**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=cursor,claudeai,figma" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=github,githubcopilot,claudeai,cursor,confluence,jira,figma,insomnia,obsidian" />
   </a>
 </p>
 
