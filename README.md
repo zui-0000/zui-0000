@@ -10,7 +10,7 @@ I'm a web application engineer with a primary focus on frontend development.
   </a>
   <br/>
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,vitest,biome,oxc,tanstack,effect,zustand,jotai,tailwindcss,shadcnui,baseui,daisyui,zod" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,vitest,biome,oxc,tanstack,effect,zod,zustand,jotai,tailwindcss,shadcnui,baseui,daisyui" />
   </a>
 </p>
 
