@@ -6,7 +6,8 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
       "WebFetch(domain:davidhwilliams.github.io)",
-      "WebFetch(domain:skillicons-picker.derikn.com)"
+      "WebFetch(domain:skillicons-picker.derikn.com)",
+      "WebFetch(domain:lobehub.com)"
     ]
   }
 }
