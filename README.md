@@ -4,13 +4,43 @@ I'm a web application engineer with a primary focus on frontend development.
 
 ### Tech Stack
 
+**Languages / Frameworks / Runtimes**
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=typescript,reactjs,hono,astro,nodejs,bun,githubactions,terraform,docker,amazonwebservices,cloudflare,neon,figma,cursor,claudeai" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=typescript,reactjs,hono,astro,nodejs,bun" />
   </a>
-  <br/>
+</p>
+
+**UI**
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,vitest,biome,oxc,tanstack,effect,zod,zustand,tailwindcss,baseui,daisyui,swagger,openapi" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=tailwindcss,baseui,daisyui,styledcomponents" />
+  </a>
+</p>
+
+**Libraries**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=tanstack,zustand,jotai,effect,zod,pnpm,turborepo,vite,vitest,biome,oxc,swagger,openapi" />
+  </a>
+</p>
+
+**Infrastructure**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=githubactions,terraform,docker,amazonwebservices,cloudflare,postgresql,neon,bigquery,datadog" />
+  </a>
+</p>
+
+**Dev Tools / AI**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=cursor,claudeai,figma" />
   </a>
 </p>
 
@@ -18,6 +48,6 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=nuxtjs,vuejs,serverless,nestjs,django,laravel,flutter,kotlin,springboot,mysql,postgresql,jenkins,datadog,bigquery" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=nuxtjs,vuejs,serverless,nestjs,django,laravel,flutter,kotlin,springboot,mysql,jenkins" />
   </a>
 </p>
