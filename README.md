@@ -10,7 +10,7 @@ I'm a web application engineer with a primary focus on frontend development.
     <img src="https://skills.syvixor.com/api/icons?i=hono" />
     <img src="https://skillicons.dev/icons?i=nodejs,bun,pnpm,aws,cloudflare,terraform,docker,githubactions,figma&theme=dark" />
     <br />
-    [![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)](https://github.com/syvixor/skills-icons)
+    <img src="https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma" />
   </a>
 </p>
 
