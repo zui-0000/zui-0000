@@ -12,27 +12,11 @@ I'm a web application engineer with a primary focus on frontend development.
   </a>
 </p>
 
-**UI**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=styledcomponents,tailwindcss,shadcnui,baseui,daisyui" />
-  </a>
-</p>
-
 **Libraries**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,tanstack,zustand,jotai,effect,zod,drizzle,swagger,openapi" />
-  </a>
-</p>
-
-**test / lint / formatter**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=vitest,playwright,storybook,biome,oxc,commitlint" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,tailwindcss,shadcnui,baseui,tanstack,zustand,jotai,effect,zod,drizzle,swagger,openapi" />
   </a>
 </p>
 
