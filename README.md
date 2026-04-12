@@ -16,7 +16,7 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,tailwindcss,shadcnui,baseui,tanstack,zustand,jotai,effect,zod,drizzle,swagger,openapi" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,shadcnui,baseui,daisyui,tanstack,zustand,jotai,effect,zod,drizzle,swagger,openapi" />
   </a>
 </p>
 
