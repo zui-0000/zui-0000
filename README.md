@@ -8,7 +8,7 @@ Web frontend engineer.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,typescript,reactjs,hono,astro,nodejs,bun" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,typescript,hono,astro,nodejs,bun" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@ Web frontend engineer.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,vitest,biome,tailwindcss,baseui,daisyui,tanstack,zustand,effect,zod,drizzle,openapi" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=reactjs,pnpm,turborepo,vite,vitest,tailwindcss,baseui,daisyui,tanstack,zustand,effect,zod,drizzle,openapi" />
   </a>
 </p>
 
