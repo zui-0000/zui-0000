@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a web application engineer with a primary focus on frontend development.
+web frontend engineer.
 
 ### Tech Stack
 
@@ -16,7 +16,7 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,shadcnui,baseui,daisyui,tanstack,zustand,jotai,effect,zod,drizzle,swagger,openapi" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,tailwindcss,shadcnui,daisyui,tanstack,zustand,jotai,effect,zod,drizzle,swagger,openapi" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=github,githubcopilot,claudeai,cursor,v0,confluence,jira,figma,insomnia,obsidian,drawio" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=github,githubcopilot,claudeai,cursor,v0,confluence,jira,figma,obsidian,drawio" />
   </a>
 </p>
 
@@ -40,6 +40,6 @@ I'm a web application engineer with a primary focus on frontend development.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=nuxtjs,vuejs,serverless,nestjs,django,laravel,flutter,kotlin,springboot,mysql,jenkins" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=kotlin,springboot,flutter,nuxtjs,vuejs,serverless,django,laravel,mysql,jenkins" />
   </a>
 </p>
