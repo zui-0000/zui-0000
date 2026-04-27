@@ -16,7 +16,7 @@ web frontend engineer.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,tailwindcss,shadcnui,daisyui,tanstack,zustand,jotai,effect,zod,drizzle,swagger,openapi" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=pnpm,turborepo,vite,baseui,shadcnui,daisyui,tanstack,zustand,jotai,effect,zod,drizzle,swagger,openapi" />
   </a>
 </p>
 
