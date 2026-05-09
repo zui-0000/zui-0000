@@ -35,11 +35,3 @@ Web frontend engineer.
     <img src="https://skills.syvixor.com/api/icons?perline=15&i=github,githubcopilot,claudeai,cursor,confluence,jira,figma,obsidian,drawio" />
   </a>
 </p>
-
-### Experience
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=kotlin,springboot,flutter,nuxtjs,vuejs,serverless,django,laravel,mysql,jenkins,bigquery,datadog" />
-  </a>
-</p>
