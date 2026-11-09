@@ -3,7 +3,5 @@
 ### Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,typescript,python,react,astro,tanstack,hono,nodejs,bun,docker,terraform,aws,cloudflare" alt="Tech Stack" />
-  </a>
+  <a href="https://skills.syvixor.com"><img src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,typescript,react,astro,tanstack,hono,nodejs,bun,docker,terraform,aws,cloudflare,oxc" alt="Tech Stack" /></a><img src="./assets/icons/viteplus.svg" alt="Vite+" title="Vite+" />
 </p>
